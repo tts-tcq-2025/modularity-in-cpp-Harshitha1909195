@@ -1,5 +1,5 @@
 #include "manual.hpp"
-#include "ColorCode.hpp"
+#include "colorcode.hpp"
 #include <ostream>
 #include <sstream>
 
