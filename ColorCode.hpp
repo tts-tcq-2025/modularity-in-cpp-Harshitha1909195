@@ -1,5 +1,5 @@
-#ifndef TELCO_COLORCODER_HPP_
-#define TELCO_COLORCODER_HPP_
+#ifndef TELCO_COLORCODE_HPP_
+#define TELCO_COLORCODE_HPP_
 
 #include <string>
 
